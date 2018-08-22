@@ -7,8 +7,7 @@
 % Input from COMSOL:
 % - Ex,Ey,Ez interpolated
 % - k0 for all considered wavelength (wavevector in hosting medium)
-% Input to define inside the script:
-% - Number of required poles l
+
 % - Geometry of the Nanoantenna
 
 clear all
