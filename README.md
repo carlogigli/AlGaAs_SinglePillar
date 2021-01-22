@@ -1,4 +1,4 @@
-# AlGaAs_SinglePillar
+# Light scattering from dielectric nanoantennas
 
 The following repository treats the analysis of linear scattering of AlGaAs nanoresonators on substrate.
 
